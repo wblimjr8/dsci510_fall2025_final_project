@@ -1,0 +1,15 @@
+# Environment and credentials
+.env
+kaggle.json
+
+# Data and results
+data/
+results/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Notebook checkpoints
+.ipynb_checkpoints/
