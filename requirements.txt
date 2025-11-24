@@ -1,3 +1,6 @@
 pandas
 requests
 pytest
+scikit-learn
+seaborn
+matplotlib
