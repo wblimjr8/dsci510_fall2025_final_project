@@ -1,4 +1,4 @@
-from load import load_cms_data
+from src.load import load_cms_data
 
 def test_cms_data_loads():
     # Ensure that CMS API data returns a non-empty dataset
