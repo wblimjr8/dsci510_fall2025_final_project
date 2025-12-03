@@ -41,3 +41,11 @@ The goal is to (1) understand which hospital characteristics and clinical featur
   - Length of stay (time_in_hospital)
   - Diagnosis categories and medical specialty  
   These features capture patient complexity and illness severity.
+
+## How to run
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/wblimjr8/dsci510_fall2025_final_project.git
+cd dsci510_fall2025_final_project
